@@ -1,0 +1,28 @@
+* {
+    margin:0;
+    padding:0;
+}
+input {
+    display:block;
+}
+
+section {
+    margin: 5vh 3rem;
+    display:grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    gap:2rem;
+}
+
+section img {
+    height:400px;
+    width:400px;
+
+}
+
+
+article {
+    display:flex;
+    flex-direction:column;
+    justify-content: center;
+    align-items: center;
+}

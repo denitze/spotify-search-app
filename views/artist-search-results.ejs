@@ -1,0 +1,14 @@
+<%- include ('partials/header')%>
+
+    <h1>Results</h1>
+    <section>
+    <% searchResults.forEach(artist => { %>
+        <article>
+        
+        <img src=<%=artist.images != '' ? artist.images[0].url :'assets/img/empty.png' %> alt="">
+        <h2><%=artist.name%></h2>
+        <a href="/albums/<%=artist.id%>">Show me Albums</a>
+        </article>
+    <% }) %>
+    </section>
+    <%- include ('partials/footer')%>
