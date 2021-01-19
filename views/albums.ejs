@@ -2,12 +2,18 @@
 
     <h1 class="hello">Albums</h1>
     <section>
-        <% albumResults.forEach(album => { %>
+        <% albumResults.items.forEach(album => { %>
             <article>
             <img src=<%=album.images != '' ? album.images[0].url :'assets/img/empty.png' %> alt="">
             <h2><%=album.name%></h2>
-            <a href="/albums/<%=album.id%>">Show me Songs</a>
+            <a href="/tracks/<%=album.id%>">Show me Songs</a>
             </article>
         <% }) %>
+
         </section>
+        <% if(site != 1) { %>
+            <a href=<%=site-2 %>>Show previous albums</a>
+            
+        <%}%>
+        <a href=<%=site %>>Show next albums</a>
     <%- include ('partials/footer')%>

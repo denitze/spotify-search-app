@@ -7,7 +7,7 @@
         
         <img src=<%=artist.images != '' ? artist.images[0].url :'assets/img/empty.png' %> alt="">
         <h2><%=artist.name%></h2>
-        <a href="/albums/<%=artist.id%>">Show me Albums</a>
+        <a href="/albums/<%=artist.id%>/0">Show me Albums</a>
         </article>
     <% }) %>
     </section>

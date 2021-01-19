@@ -1,0 +1,24 @@
+<%- include ('partials/header')%>
+
+    <h1 class="hello">Tracks</h1>
+    <section>
+        <% trackResults.forEach(track => { %>
+            <% if (track.preview_url != null) {%>
+            <div>
+                <p>
+                    <%= track.name %>
+                </p>
+                <audio src=<%=track.preview_url %> controls></audio>
+            </div>
+                <%} else{ %>
+            <div>
+                <p>
+                    <%= track.name %>
+                </p>
+                <p>Hier gibt es leider keine Tracks!</p>
+            </div>
+
+              <% } %>
+        <% }) %>
+        </section>
+    <%- include ('partials/footer')%>

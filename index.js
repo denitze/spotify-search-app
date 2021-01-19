@@ -42,19 +42,31 @@ app.get('/artist-search', (req, res) => {
 
 })
 
-app.get('/albums/:id', (req, res, next) => {
-    console.log("REQUEST: ", req.params.id);
+app.get('/albums/:id/:offset', (req, res) => {
+    // console.log("REQUEST: ", req.params.id);
     spotifyApi
-        .getArtistAlbums(req.params.id)
+        .getArtistAlbums(req.params.id, { limit: 20, offset:req.params.offset * 20 },)
         .then(data2 => {
-            let albumResults = data2.body.items
-            console.log("Album Information" , JSON.stringify(data2.body));
+            let albumResults = data2.body
+            // console.log("Album Information" , JSON.stringify(data2.body));
 
             // ----> 'HERE WHAT WE WANT TO DO AFTER RECEIVING THE DATA FROM THE API'
-            res.render('albums', { albumResults })
+            res.render('albums', { albumResults, site: (req.params.offset * 1) + 1 })
         })
         .catch(err => console.log('The error while searching artists occurred: ', err));
+})
 
+
+app.get('/tracks/:id', (req, res) => {
+    // console.log(req.params.id);
+    spotifyApi
+    .getAlbumTracks(req.params.id, {limit:10, offset:0})
+    .then((data) => {
+        let trackResults = data.body.items
+        // console.log("Track Information" , JSON.stringify(data.body.items));
+        res.render('tracks', {trackResults})
+    })
+    .catch(err => console.log('The error while searching artists occurred: ', err));
 })
 
      

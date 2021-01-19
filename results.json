@@ -1,478 +1,662 @@
 [
     {
-        "external_urls": {
-            "spotify": "https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m"
-        },
-        "followers": {
-            "href": null,
-            "total": 25612636
-        },
-        "genres": [
-            "dance pop",
-            "pop",
-            "pop dance",
-            "post-teen pop",
-            "r&b"
-        ],
-        "href": "https://api.spotify.com/v1/artists/6vWDO969PvNqNYHIOW5v0m",
-        "id": "6vWDO969PvNqNYHIOW5v0m",
-        "images": [
+        "artists": [
             {
-                "height": 640,
-                "url": "https://i.scdn.co/image/ad8b0e5a18a5a443a2678768bd73f59833941abc",
-                "width": 640
-            },
-            {
-                "height": 320,
-                "url": "https://i.scdn.co/image/802895be7bc5339087ba36194b0b7307c467df96",
-                "width": 320
-            },
-            {
-                "height": 160,
-                "url": "https://i.scdn.co/image/a932ba0a31bd2807fe76c77b64c680bec2f3d14a",
-                "width": 160
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+                },
+                "href": "https://api.spotify.com/v1/artists/3TVXtAsR1Inumwj472S9r4",
+                "id": "3TVXtAsR1Inumwj472S9r4",
+                "name": "Drake",
+                "type": "artist",
+                "uri": "spotify:artist:3TVXtAsR1Inumwj472S9r4"
             }
         ],
-        "name": "Beyoncé",
-        "popularity": 87,
-        "type": "artist",
-        "uri": "spotify:artist:6vWDO969PvNqNYHIOW5v0m"
+        "available_markets": [
+            "AE",
+            "AU",
+            "BE",
+            "BH",
+            "BY",
+            "DZ",
+            "EG",
+            "GB",
+            "HK",
+            "ID",
+            "IE",
+            "IN",
+            "JO",
+            "KW",
+            "KZ",
+            "LB",
+            "LU",
+            "MA",
+            "MX",
+            "MY",
+            "NZ",
+            "OM",
+            "PH",
+            "PL",
+            "QA",
+            "RU",
+            "SA",
+            "SG",
+            "TH",
+            "TN",
+            "TR",
+            "TW",
+            "UA",
+            "VN"
+        ],
+        "disc_number": 1,
+        "duration_ms": 366413,
+        "explicit": false,
+        "external_urls": {
+            "spotify": "https://open.spotify.com/track/0maapidvfoWKC5b79XJQa9"
+        },
+        "href": "https://api.spotify.com/v1/tracks/0maapidvfoWKC5b79XJQa9",
+        "id": "0maapidvfoWKC5b79XJQa9",
+        "is_local": false,
+        "name": "Tuscan Leather",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:0maapidvfoWKC5b79XJQa9"
     },
     {
-        "external_urls": {
-            "spotify": "https://open.spotify.com/artist/4kmn7krzlJggDr3C00SoCF"
-        },
-        "followers": {
-            "href": null,
-            "total": 28
-        },
-        "genres": [],
-        "href": "https://api.spotify.com/v1/artists/4kmn7krzlJggDr3C00SoCF",
-        "id": "4kmn7krzlJggDr3C00SoCF",
-        "images": [
+        "artists": [
             {
-                "height": 640,
-                "url": "https://i.scdn.co/image/ab67616d0000b273b3a8e66cd5045ece93622743",
-                "width": 640
-            },
-            {
-                "height": 300,
-                "url": "https://i.scdn.co/image/ab67616d00001e02b3a8e66cd5045ece93622743",
-                "width": 300
-            },
-            {
-                "height": 64,
-                "url": "https://i.scdn.co/image/ab67616d00004851b3a8e66cd5045ece93622743",
-                "width": 64
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+                },
+                "href": "https://api.spotify.com/v1/artists/3TVXtAsR1Inumwj472S9r4",
+                "id": "3TVXtAsR1Inumwj472S9r4",
+                "name": "Drake",
+                "type": "artist",
+                "uri": "spotify:artist:3TVXtAsR1Inumwj472S9r4"
             }
         ],
-        "name": "Beyonce Smith",
-        "popularity": 9,
-        "type": "artist",
-        "uri": "spotify:artist:4kmn7krzlJggDr3C00SoCF"
+        "available_markets": [
+            "AE",
+            "AU",
+            "BE",
+            "BH",
+            "BY",
+            "DZ",
+            "EG",
+            "GB",
+            "HK",
+            "ID",
+            "IE",
+            "IN",
+            "JO",
+            "KW",
+            "KZ",
+            "LB",
+            "LU",
+            "MA",
+            "MX",
+            "MY",
+            "NZ",
+            "OM",
+            "PH",
+            "PL",
+            "QA",
+            "RU",
+            "SA",
+            "SG",
+            "TH",
+            "TN",
+            "TR",
+            "TW",
+            "UA",
+            "VN"
+        ],
+        "disc_number": 1,
+        "duration_ms": 267360,
+        "explicit": false,
+        "external_urls": {
+            "spotify": "https://open.spotify.com/track/1PrZHhuGkTF7AnY42GMG9d"
+        },
+        "href": "https://api.spotify.com/v1/tracks/1PrZHhuGkTF7AnY42GMG9d",
+        "id": "1PrZHhuGkTF7AnY42GMG9d",
+        "is_local": false,
+        "name": "Furthest Thing",
+        "preview_url": null,
+        "track_number": 2,
+        "type": "track",
+        "uri": "spotify:track:1PrZHhuGkTF7AnY42GMG9d"
     },
     {
-        "external_urls": {
-            "spotify": "https://open.spotify.com/artist/3mjguRNN96bC8zvaTwHoqE"
-        },
-        "followers": {
-            "href": null,
-            "total": 120
-        },
-        "genres": [],
-        "href": "https://api.spotify.com/v1/artists/3mjguRNN96bC8zvaTwHoqE",
-        "id": "3mjguRNN96bC8zvaTwHoqE",
-        "images": [],
-        "name": "Beyonce as Shine",
-        "popularity": 3,
-        "type": "artist",
-        "uri": "spotify:artist:3mjguRNN96bC8zvaTwHoqE"
-    },
-    {
-        "external_urls": {
-            "spotify": "https://open.spotify.com/artist/15gnGf4KhIWNu1HHYrjpTL"
-        },
-        "followers": {
-            "href": null,
-            "total": 1207
-        },
-        "genres": [],
-        "href": "https://api.spotify.com/v1/artists/15gnGf4KhIWNu1HHYrjpTL",
-        "id": "15gnGf4KhIWNu1HHYrjpTL",
-        "images": [
+        "artists": [
             {
-                "height": 640,
-                "url": "https://i.scdn.co/image/ab67616d0000b273e89a3e99c4a4269d6b63a401",
-                "width": 640
-            },
-            {
-                "height": 300,
-                "url": "https://i.scdn.co/image/ab67616d00001e02e89a3e99c4a4269d6b63a401",
-                "width": 300
-            },
-            {
-                "height": 64,
-                "url": "https://i.scdn.co/image/ab67616d00004851e89a3e99c4a4269d6b63a401",
-                "width": 64
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+                },
+                "href": "https://api.spotify.com/v1/artists/3TVXtAsR1Inumwj472S9r4",
+                "id": "3TVXtAsR1Inumwj472S9r4",
+                "name": "Drake",
+                "type": "artist",
+                "uri": "spotify:artist:3TVXtAsR1Inumwj472S9r4"
             }
         ],
-        "name": "The Beyoncé Experience",
-        "popularity": 5,
-        "type": "artist",
-        "uri": "spotify:artist:15gnGf4KhIWNu1HHYrjpTL"
+        "available_markets": [
+            "AE",
+            "AU",
+            "BE",
+            "BH",
+            "BY",
+            "DZ",
+            "EG",
+            "GB",
+            "HK",
+            "ID",
+            "IE",
+            "IN",
+            "JO",
+            "KW",
+            "KZ",
+            "LB",
+            "LU",
+            "MA",
+            "MX",
+            "MY",
+            "NZ",
+            "OM",
+            "PH",
+            "PL",
+            "QA",
+            "RU",
+            "SA",
+            "SG",
+            "TH",
+            "TN",
+            "TR",
+            "TW",
+            "UA",
+            "VN"
+        ],
+        "disc_number": 1,
+        "duration_ms": 174133,
+        "explicit": false,
+        "external_urls": {
+            "spotify": "https://open.spotify.com/track/4clXsv4Qu7BZMUJWc7aUFa"
+        },
+        "href": "https://api.spotify.com/v1/tracks/4clXsv4Qu7BZMUJWc7aUFa",
+        "id": "4clXsv4Qu7BZMUJWc7aUFa",
+        "is_local": false,
+        "name": "Started From the Bottom",
+        "preview_url": null,
+        "track_number": 3,
+        "type": "track",
+        "uri": "spotify:track:4clXsv4Qu7BZMUJWc7aUFa"
     },
     {
-        "external_urls": {
-            "spotify": "https://open.spotify.com/artist/7vbtWyaqcB8RlHqqIKlHCU"
-        },
-        "followers": {
-            "href": null,
-            "total": 32940
-        },
-        "genres": [
-            "funk carioca"
-        ],
-        "href": "https://api.spotify.com/v1/artists/7vbtWyaqcB8RlHqqIKlHCU",
-        "id": "7vbtWyaqcB8RlHqqIKlHCU",
-        "images": [
+        "artists": [
             {
-                "height": 640,
-                "url": "https://i.scdn.co/image/ab67616d0000b273a309988693e9c0ec23532a9a",
-                "width": 640
-            },
-            {
-                "height": 300,
-                "url": "https://i.scdn.co/image/ab67616d00001e02a309988693e9c0ec23532a9a",
-                "width": 300
-            },
-            {
-                "height": 64,
-                "url": "https://i.scdn.co/image/ab67616d00004851a309988693e9c0ec23532a9a",
-                "width": 64
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+                },
+                "href": "https://api.spotify.com/v1/artists/3TVXtAsR1Inumwj472S9r4",
+                "id": "3TVXtAsR1Inumwj472S9r4",
+                "name": "Drake",
+                "type": "artist",
+                "uri": "spotify:artist:3TVXtAsR1Inumwj472S9r4"
             }
         ],
-        "name": "Mc Beyonce",
-        "popularity": 30,
-        "type": "artist",
-        "uri": "spotify:artist:7vbtWyaqcB8RlHqqIKlHCU"
+        "available_markets": [
+            "AE",
+            "AU",
+            "BE",
+            "BH",
+            "BY",
+            "DZ",
+            "EG",
+            "GB",
+            "HK",
+            "ID",
+            "IE",
+            "IN",
+            "JO",
+            "KW",
+            "KZ",
+            "LB",
+            "LU",
+            "MA",
+            "MX",
+            "MY",
+            "NZ",
+            "OM",
+            "PH",
+            "PL",
+            "QA",
+            "RU",
+            "SA",
+            "SG",
+            "TH",
+            "TN",
+            "TR",
+            "TW",
+            "UA",
+            "VN"
+        ],
+        "disc_number": 1,
+        "duration_ms": 217693,
+        "explicit": false,
+        "external_urls": {
+            "spotify": "https://open.spotify.com/track/4HQNTMmXLERSqhuDzFIPlw"
+        },
+        "href": "https://api.spotify.com/v1/tracks/4HQNTMmXLERSqhuDzFIPlw",
+        "id": "4HQNTMmXLERSqhuDzFIPlw",
+        "is_local": false,
+        "name": "Wu-Tang Forever",
+        "preview_url": null,
+        "track_number": 4,
+        "type": "track",
+        "uri": "spotify:track:4HQNTMmXLERSqhuDzFIPlw"
     },
     {
-        "external_urls": {
-            "spotify": "https://open.spotify.com/artist/59BdyBFNBtNV9CQYeCVxDp"
-        },
-        "followers": {
-            "href": null,
-            "total": 52
-        },
-        "genres": [],
-        "href": "https://api.spotify.com/v1/artists/59BdyBFNBtNV9CQYeCVxDp",
-        "id": "59BdyBFNBtNV9CQYeCVxDp",
-        "images": [
+        "artists": [
             {
-                "height": 640,
-                "url": "https://i.scdn.co/image/ab67616d0000b273f4b012c47993a7cb27e56d9f",
-                "width": 640
-            },
-            {
-                "height": 300,
-                "url": "https://i.scdn.co/image/ab67616d00001e02f4b012c47993a7cb27e56d9f",
-                "width": 300
-            },
-            {
-                "height": 64,
-                "url": "https://i.scdn.co/image/ab67616d00004851f4b012c47993a7cb27e56d9f",
-                "width": 64
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+                },
+                "href": "https://api.spotify.com/v1/artists/3TVXtAsR1Inumwj472S9r4",
+                "id": "3TVXtAsR1Inumwj472S9r4",
+                "name": "Drake",
+                "type": "artist",
+                "uri": "spotify:artist:3TVXtAsR1Inumwj472S9r4"
             }
         ],
-        "name": "Beyonce's Fiancés",
-        "popularity": 1,
-        "type": "artist",
-        "uri": "spotify:artist:59BdyBFNBtNV9CQYeCVxDp"
+        "available_markets": [
+            "AE",
+            "AU",
+            "BE",
+            "BH",
+            "BY",
+            "DZ",
+            "EG",
+            "GB",
+            "HK",
+            "ID",
+            "IE",
+            "IN",
+            "JO",
+            "KW",
+            "KZ",
+            "LB",
+            "LU",
+            "MA",
+            "MX",
+            "MY",
+            "NZ",
+            "OM",
+            "PH",
+            "PL",
+            "QA",
+            "RU",
+            "SA",
+            "SG",
+            "TH",
+            "TN",
+            "TR",
+            "TW",
+            "UA",
+            "VN"
+        ],
+        "disc_number": 1,
+        "duration_ms": 251960,
+        "explicit": false,
+        "external_urls": {
+            "spotify": "https://open.spotify.com/track/4bvCG9nTnKEaUZRjGYqXAE"
+        },
+        "href": "https://api.spotify.com/v1/tracks/4bvCG9nTnKEaUZRjGYqXAE",
+        "id": "4bvCG9nTnKEaUZRjGYqXAE",
+        "is_local": false,
+        "name": "Own It",
+        "preview_url": null,
+        "track_number": 5,
+        "type": "track",
+        "uri": "spotify:track:4bvCG9nTnKEaUZRjGYqXAE"
     },
     {
-        "external_urls": {
-            "spotify": "https://open.spotify.com/artist/6Ox0TEvz2VGDhEPvODDBBv"
-        },
-        "followers": {
-            "href": null,
-            "total": 93
-        },
-        "genres": [],
-        "href": "https://api.spotify.com/v1/artists/6Ox0TEvz2VGDhEPvODDBBv",
-        "id": "6Ox0TEvz2VGDhEPvODDBBv",
-        "images": [],
-        "name": "Jayla Beyonce Wright",
-        "popularity": 7,
-        "type": "artist",
-        "uri": "spotify:artist:6Ox0TEvz2VGDhEPvODDBBv"
-    },
-    {
-        "external_urls": {
-            "spotify": "https://open.spotify.com/artist/0GQPhNv90q4y9TJO3YjZJy"
-        },
-        "followers": {
-            "href": null,
-            "total": 401
-        },
-        "genres": [],
-        "href": "https://api.spotify.com/v1/artists/0GQPhNv90q4y9TJO3YjZJy",
-        "id": "0GQPhNv90q4y9TJO3YjZJy",
-        "images": [
+        "artists": [
             {
-                "height": 640,
-                "url": "https://i.scdn.co/image/ab67616d0000b273c31d5e5ee2a3491ccdaa4255",
-                "width": 640
-            },
-            {
-                "height": 300,
-                "url": "https://i.scdn.co/image/ab67616d00001e02c31d5e5ee2a3491ccdaa4255",
-                "width": 300
-            },
-            {
-                "height": 64,
-                "url": "https://i.scdn.co/image/ab67616d00004851c31d5e5ee2a3491ccdaa4255",
-                "width": 64
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+                },
+                "href": "https://api.spotify.com/v1/artists/3TVXtAsR1Inumwj472S9r4",
+                "id": "3TVXtAsR1Inumwj472S9r4",
+                "name": "Drake",
+                "type": "artist",
+                "uri": "spotify:artist:3TVXtAsR1Inumwj472S9r4"
             }
         ],
-        "name": "Fran London feat. Beyoncé",
-        "popularity": 4,
-        "type": "artist",
-        "uri": "spotify:artist:0GQPhNv90q4y9TJO3YjZJy"
+        "available_markets": [
+            "AE",
+            "AU",
+            "BE",
+            "BH",
+            "BY",
+            "DZ",
+            "EG",
+            "GB",
+            "HK",
+            "ID",
+            "IE",
+            "IN",
+            "JO",
+            "KW",
+            "KZ",
+            "LB",
+            "LU",
+            "MA",
+            "MX",
+            "MY",
+            "NZ",
+            "OM",
+            "PH",
+            "PL",
+            "QA",
+            "RU",
+            "SA",
+            "SG",
+            "TH",
+            "TN",
+            "TR",
+            "TW",
+            "UA",
+            "VN"
+        ],
+        "disc_number": 1,
+        "duration_ms": 270186,
+        "explicit": false,
+        "external_urls": {
+            "spotify": "https://open.spotify.com/track/0FNBJqbaJFdzAv9GHLFOZY"
+        },
+        "href": "https://api.spotify.com/v1/tracks/0FNBJqbaJFdzAv9GHLFOZY",
+        "id": "0FNBJqbaJFdzAv9GHLFOZY",
+        "is_local": false,
+        "name": "Worst Behavior",
+        "preview_url": null,
+        "track_number": 6,
+        "type": "track",
+        "uri": "spotify:track:0FNBJqbaJFdzAv9GHLFOZY"
     },
     {
-        "external_urls": {
-            "spotify": "https://open.spotify.com/artist/5Gc7Az81teeSFdT7mxdzFx"
-        },
-        "followers": {
-            "href": null,
-            "total": 258
-        },
-        "genres": [],
-        "href": "https://api.spotify.com/v1/artists/5Gc7Az81teeSFdT7mxdzFx",
-        "id": "5Gc7Az81teeSFdT7mxdzFx",
-        "images": [],
-        "name": "Beyonce Gisselle Knowles",
-        "popularity": 1,
-        "type": "artist",
-        "uri": "spotify:artist:5Gc7Az81teeSFdT7mxdzFx"
-    },
-    {
-        "external_urls": {
-            "spotify": "https://open.spotify.com/artist/28zkbG1FOcvawYeqA8zRm0"
-        },
-        "followers": {
-            "href": null,
-            "total": 64
-        },
-        "genres": [],
-        "href": "https://api.spotify.com/v1/artists/28zkbG1FOcvawYeqA8zRm0",
-        "id": "28zkbG1FOcvawYeqA8zRm0",
-        "images": [
+        "artists": [
             {
-                "height": 640,
-                "url": "https://i.scdn.co/image/ab67616d0000b2730febdbec4e3e714dea863d36",
-                "width": 640
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+                },
+                "href": "https://api.spotify.com/v1/artists/3TVXtAsR1Inumwj472S9r4",
+                "id": "3TVXtAsR1Inumwj472S9r4",
+                "name": "Drake",
+                "type": "artist",
+                "uri": "spotify:artist:3TVXtAsR1Inumwj472S9r4"
             },
             {
-                "height": 300,
-                "url": "https://i.scdn.co/image/ab67616d00001e020febdbec4e3e714dea863d36",
-                "width": 300
-            },
-            {
-                "height": 64,
-                "url": "https://i.scdn.co/image/ab67616d000048510febdbec4e3e714dea863d36",
-                "width": 64
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/artist/5ZS223C6JyBfXasXxrRqOk"
+                },
+                "href": "https://api.spotify.com/v1/artists/5ZS223C6JyBfXasXxrRqOk",
+                "id": "5ZS223C6JyBfXasXxrRqOk",
+                "name": "Jhené Aiko",
+                "type": "artist",
+                "uri": "spotify:artist:5ZS223C6JyBfXasXxrRqOk"
             }
         ],
-        "name": "Dominique Beyonce",
-        "popularity": 0,
-        "type": "artist",
-        "uri": "spotify:artist:28zkbG1FOcvawYeqA8zRm0"
+        "available_markets": [
+            "AE",
+            "AU",
+            "BE",
+            "BH",
+            "BY",
+            "DZ",
+            "EG",
+            "GB",
+            "HK",
+            "ID",
+            "IE",
+            "IN",
+            "JO",
+            "KW",
+            "KZ",
+            "LB",
+            "LU",
+            "MA",
+            "MX",
+            "MY",
+            "NZ",
+            "OM",
+            "PH",
+            "PL",
+            "QA",
+            "RU",
+            "SA",
+            "SG",
+            "TH",
+            "TN",
+            "TR",
+            "TW",
+            "UA",
+            "VN"
+        ],
+        "disc_number": 1,
+        "duration_ms": 322160,
+        "explicit": false,
+        "external_urls": {
+            "spotify": "https://open.spotify.com/track/4pddr1pJafmwmcdhvpr4mB"
+        },
+        "href": "https://api.spotify.com/v1/tracks/4pddr1pJafmwmcdhvpr4mB",
+        "id": "4pddr1pJafmwmcdhvpr4mB",
+        "is_local": false,
+        "name": "From Time",
+        "preview_url": null,
+        "track_number": 7,
+        "type": "track",
+        "uri": "spotify:track:4pddr1pJafmwmcdhvpr4mB"
     },
     {
-        "external_urls": {
-            "spotify": "https://open.spotify.com/artist/34cT5pnMdqtYGlejrDUPYN"
-        },
-        "followers": {
-            "href": null,
-            "total": 9
-        },
-        "genres": [],
-        "href": "https://api.spotify.com/v1/artists/34cT5pnMdqtYGlejrDUPYN",
-        "id": "34cT5pnMdqtYGlejrDUPYN",
-        "images": [],
-        "name": "Innaz Beyoncen",
-        "popularity": 0,
-        "type": "artist",
-        "uri": "spotify:artist:34cT5pnMdqtYGlejrDUPYN"
-    },
-    {
-        "external_urls": {
-            "spotify": "https://open.spotify.com/artist/4KksP8dIhwtsf7RD6Xvd6y"
-        },
-        "followers": {
-            "href": null,
-            "total": 684
-        },
-        "genres": [],
-        "href": "https://api.spotify.com/v1/artists/4KksP8dIhwtsf7RD6Xvd6y",
-        "id": "4KksP8dIhwtsf7RD6Xvd6y",
-        "images": [],
-        "name": "Beyoncé Knowles Carter",
-        "popularity": 0,
-        "type": "artist",
-        "uri": "spotify:artist:4KksP8dIhwtsf7RD6Xvd6y"
-    },
-    {
-        "external_urls": {
-            "spotify": "https://open.spotify.com/artist/3VtLasOBrPTOBb1nhCxfSz"
-        },
-        "followers": {
-            "href": null,
-            "total": 12
-        },
-        "genres": [],
-        "href": "https://api.spotify.com/v1/artists/3VtLasOBrPTOBb1nhCxfSz",
-        "id": "3VtLasOBrPTOBb1nhCxfSz",
-        "images": [],
-        "name": "Ade-Beyonce",
-        "popularity": 0,
-        "type": "artist",
-        "uri": "spotify:artist:3VtLasOBrPTOBb1nhCxfSz"
-    },
-    {
-        "external_urls": {
-            "spotify": "https://open.spotify.com/artist/6YtQT1PiZ1cYnUBaUr9GfY"
-        },
-        "followers": {
-            "href": null,
-            "total": 39
-        },
-        "genres": [],
-        "href": "https://api.spotify.com/v1/artists/6YtQT1PiZ1cYnUBaUr9GfY",
-        "id": "6YtQT1PiZ1cYnUBaUr9GfY",
-        "images": [],
-        "name": "Beyonc'e Knolles",
-        "popularity": 0,
-        "type": "artist",
-        "uri": "spotify:artist:6YtQT1PiZ1cYnUBaUr9GfY"
-    },
-    {
-        "external_urls": {
-            "spotify": "https://open.spotify.com/artist/5kj98GhCDfAexbieCSUtxW"
-        },
-        "followers": {
-            "href": null,
-            "total": 10
-        },
-        "genres": [],
-        "href": "https://api.spotify.com/v1/artists/5kj98GhCDfAexbieCSUtxW",
-        "id": "5kj98GhCDfAexbieCSUtxW",
-        "images": [
+        "artists": [
             {
-                "height": 640,
-                "url": "https://i.scdn.co/image/ab67616d0000b273ffda194eda549c342dd51450",
-                "width": 640
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+                },
+                "href": "https://api.spotify.com/v1/artists/3TVXtAsR1Inumwj472S9r4",
+                "id": "3TVXtAsR1Inumwj472S9r4",
+                "name": "Drake",
+                "type": "artist",
+                "uri": "spotify:artist:3TVXtAsR1Inumwj472S9r4"
             },
             {
-                "height": 300,
-                "url": "https://i.scdn.co/image/ab67616d00001e02ffda194eda549c342dd51450",
-                "width": 300
-            },
-            {
-                "height": 64,
-                "url": "https://i.scdn.co/image/ab67616d00004851ffda194eda549c342dd51450",
-                "width": 64
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/artist/4HzKw8XcD0piJmDrrPRCYk"
+                },
+                "href": "https://api.spotify.com/v1/artists/4HzKw8XcD0piJmDrrPRCYk",
+                "id": "4HzKw8XcD0piJmDrrPRCYk",
+                "name": "Majid Jordan",
+                "type": "artist",
+                "uri": "spotify:artist:4HzKw8XcD0piJmDrrPRCYk"
             }
         ],
-        "name": "Lil Beyonce'",
-        "popularity": 0,
-        "type": "artist",
-        "uri": "spotify:artist:5kj98GhCDfAexbieCSUtxW"
+        "available_markets": [
+            "AE",
+            "AU",
+            "BE",
+            "BH",
+            "BY",
+            "DZ",
+            "EG",
+            "GB",
+            "HK",
+            "ID",
+            "IE",
+            "IN",
+            "JO",
+            "KW",
+            "KZ",
+            "LB",
+            "LU",
+            "MA",
+            "MX",
+            "MY",
+            "NZ",
+            "OM",
+            "PH",
+            "PL",
+            "QA",
+            "RU",
+            "SA",
+            "SG",
+            "TH",
+            "TN",
+            "TR",
+            "TW",
+            "UA",
+            "VN"
+        ],
+        "disc_number": 1,
+        "duration_ms": 227880,
+        "explicit": false,
+        "external_urls": {
+            "spotify": "https://open.spotify.com/track/2UCB9hFhMNHqAGqgqC7RL3"
+        },
+        "href": "https://api.spotify.com/v1/tracks/2UCB9hFhMNHqAGqgqC7RL3",
+        "id": "2UCB9hFhMNHqAGqgqC7RL3",
+        "is_local": false,
+        "name": "Hold On, We're Going Home",
+        "preview_url": null,
+        "track_number": 8,
+        "type": "track",
+        "uri": "spotify:track:2UCB9hFhMNHqAGqgqC7RL3"
     },
     {
+        "artists": [
+            {
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+                },
+                "href": "https://api.spotify.com/v1/artists/3TVXtAsR1Inumwj472S9r4",
+                "id": "3TVXtAsR1Inumwj472S9r4",
+                "name": "Drake",
+                "type": "artist",
+                "uri": "spotify:artist:3TVXtAsR1Inumwj472S9r4"
+            }
+        ],
+        "available_markets": [
+            "AE",
+            "AU",
+            "BE",
+            "BH",
+            "BY",
+            "DZ",
+            "EG",
+            "GB",
+            "HK",
+            "ID",
+            "IE",
+            "IN",
+            "JO",
+            "KW",
+            "KZ",
+            "LB",
+            "LU",
+            "MA",
+            "MX",
+            "MY",
+            "NZ",
+            "OM",
+            "PH",
+            "PL",
+            "QA",
+            "RU",
+            "SA",
+            "SG",
+            "TH",
+            "TN",
+            "TR",
+            "TW",
+            "UA",
+            "VN"
+        ],
+        "disc_number": 1,
+        "duration_ms": 296400,
+        "explicit": false,
         "external_urls": {
-            "spotify": "https://open.spotify.com/artist/5zKtGkXaCd2kTyHljTF5QX"
+            "spotify": "https://open.spotify.com/track/58HTSEG1dGkwNrknDtPThY"
         },
-        "followers": {
-            "href": null,
-            "total": 98
-        },
-        "genres": [],
-        "href": "https://api.spotify.com/v1/artists/5zKtGkXaCd2kTyHljTF5QX",
-        "id": "5zKtGkXaCd2kTyHljTF5QX",
-        "images": [],
-        "name": "Dama Beyonce",
-        "popularity": 0,
-        "type": "artist",
-        "uri": "spotify:artist:5zKtGkXaCd2kTyHljTF5QX"
+        "href": "https://api.spotify.com/v1/tracks/58HTSEG1dGkwNrknDtPThY",
+        "id": "58HTSEG1dGkwNrknDtPThY",
+        "is_local": false,
+        "name": "Connect",
+        "preview_url": null,
+        "track_number": 9,
+        "type": "track",
+        "uri": "spotify:track:58HTSEG1dGkwNrknDtPThY"
     },
     {
+        "artists": [
+            {
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+                },
+                "href": "https://api.spotify.com/v1/artists/3TVXtAsR1Inumwj472S9r4",
+                "id": "3TVXtAsR1Inumwj472S9r4",
+                "name": "Drake",
+                "type": "artist",
+                "uri": "spotify:artist:3TVXtAsR1Inumwj472S9r4"
+            }
+        ],
+        "available_markets": [
+            "AE",
+            "AU",
+            "BE",
+            "BH",
+            "BY",
+            "DZ",
+            "EG",
+            "GB",
+            "HK",
+            "ID",
+            "IE",
+            "IN",
+            "JO",
+            "KW",
+            "KZ",
+            "LB",
+            "LU",
+            "MA",
+            "MX",
+            "MY",
+            "NZ",
+            "OM",
+            "PH",
+            "PL",
+            "QA",
+            "RU",
+            "SA",
+            "SG",
+            "TH",
+            "TN",
+            "TR",
+            "TW",
+            "UA",
+            "VN"
+        ],
+        "disc_number": 1,
+        "duration_ms": 224026,
+        "explicit": false,
         "external_urls": {
-            "spotify": "https://open.spotify.com/artist/6LtfnCU4PNw7L5h8nJmTDE"
+            "spotify": "https://open.spotify.com/track/2F99ANqr1ifFK5IaqEoJLT"
         },
-        "followers": {
-            "href": null,
-            "total": 65
-        },
-        "genres": [],
-        "href": "https://api.spotify.com/v1/artists/6LtfnCU4PNw7L5h8nJmTDE",
-        "id": "6LtfnCU4PNw7L5h8nJmTDE",
-        "images": [],
-        "name": "Beyoncé Ravell",
-        "popularity": 0,
-        "type": "artist",
-        "uri": "spotify:artist:6LtfnCU4PNw7L5h8nJmTDE"
-    },
-    {
-        "external_urls": {
-            "spotify": "https://open.spotify.com/artist/1WiIErbSuisqsqJt599MKz"
-        },
-        "followers": {
-            "href": null,
-            "total": 29
-        },
-        "genres": [],
-        "href": "https://api.spotify.com/v1/artists/1WiIErbSuisqsqJt599MKz",
-        "id": "1WiIErbSuisqsqJt599MKz",
-        "images": [],
-        "name": "Belinda Beyonce Wright",
-        "popularity": 3,
-        "type": "artist",
-        "uri": "spotify:artist:1WiIErbSuisqsqJt599MKz"
-    },
-    {
-        "external_urls": {
-            "spotify": "https://open.spotify.com/artist/1vY4Qzqxhd0p1Q69Q81KqF"
-        },
-        "followers": {
-            "href": null,
-            "total": 39
-        },
-        "genres": [],
-        "href": "https://api.spotify.com/v1/artists/1vY4Qzqxhd0p1Q69Q81KqF",
-        "id": "1vY4Qzqxhd0p1Q69Q81KqF",
-        "images": [],
-        "name": "Beyonce's Karaoke Band",
-        "popularity": 0,
-        "type": "artist",
-        "uri": "spotify:artist:1vY4Qzqxhd0p1Q69Q81KqF"
-    },
-    {
-        "external_urls": {
-            "spotify": "https://open.spotify.com/artist/44Pphzybv5kgH30W2mA2GK"
-        },
-        "followers": {
-            "href": null,
-            "total": 47
-        },
-        "genres": [],
-        "href": "https://api.spotify.com/v1/artists/44Pphzybv5kgH30W2mA2GK",
-        "id": "44Pphzybv5kgH30W2mA2GK",
-        "images": [],
-        "name": "Beyonce Karaoke Band",
-        "popularity": 0,
-        "type": "artist",
-        "uri": "spotify:artist:44Pphzybv5kgH30W2mA2GK"
+        "href": "https://api.spotify.com/v1/tracks/2F99ANqr1ifFK5IaqEoJLT",
+        "id": "2F99ANqr1ifFK5IaqEoJLT",
+        "is_local": false,
+        "name": "The Language",
+        "preview_url": null,
+        "track_number": 10,
+        "type": "track",
+        "uri": "spotify:track:2F99ANqr1ifFK5IaqEoJLT"
     }
 ]

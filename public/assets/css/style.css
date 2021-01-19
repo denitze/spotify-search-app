@@ -1,6 +1,7 @@
 * {
     margin:0;
     padding:0;
+    box-sizing: border-box;
 }
 input {
     display:block;
@@ -16,7 +17,6 @@ section {
 section img {
     height:400px;
     width:400px;
-
 }
 
 
